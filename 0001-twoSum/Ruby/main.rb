@@ -1,1 +1,1 @@
-puts('Hallo Dunia')
+puts('Hallo')
